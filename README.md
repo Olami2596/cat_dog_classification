@@ -84,13 +84,7 @@ Other prerequisites:
 
 ---
 
-## 🚀 Get Started
 
-Clone the repo and launch the notebook in Jupyter or Google Colab to begin classifying cats and dogs with state-of-the-art accuracy!
-
-```bash
-git clone https://github.com/yourusername/cat-dog-classifier.git
-```
 
 
 
